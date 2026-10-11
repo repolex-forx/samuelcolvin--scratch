@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/scratch/commit/09b89c9bd426bc5f64e93ea3d6cb86182fa608be",
       "git:hexsha": "09b89c9bd426bc5f64e93ea3d6cb86182fa608be",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
