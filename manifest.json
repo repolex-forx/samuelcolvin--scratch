@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "scratch",
+  "versions": [
+    {
+      "commit": "09b89c9bd426bc5f64e93ea3d6cb86182fa608be",
+      "parsed_at": "2026-10-11T19:04:07.019012+00:00",
+      "filetree": "filetree/09b89c9bd426bc5f64e93ea3d6cb86182fa608be.nq.gz",
+      "blobs": [
+        "blob/6a2b8b9049aa909b9cff9daa92339fef04361a9e.nq.gz",
+        "blob/f3575d10f265da84310fbe47bc4b2f6c6798498f.nq.gz",
+        "blob/624b592aafa0677ee1396c3ef01607ebdd139561.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
